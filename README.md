@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bansheett
 - 👀 I’m interested in Videogames
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
